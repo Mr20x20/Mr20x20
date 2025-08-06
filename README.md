@@ -23,11 +23,16 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yas-m&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mr20x20&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-m&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr20x20&layout=compact)
 
 ---
+
+
+<!--
+**Mr20x20/Mr20x20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ### 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -35,9 +40,6 @@
 
 ---
 
-
-<!--
-**Mr20x20/Mr20x20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 📄 Know about my experiences: [My Resume](#)
